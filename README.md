@@ -3,9 +3,9 @@ This sparse matrix used in the paper  "Intelligent Recommendations for Citizen S
 
 # description
 
-| Rows    | Anonymous user-id                |
+| Rows:    | Anonymous user-id                |
 |---------|----------------------------------|
-| Columns | SciStarter anonymous Project id  |
+| Columns: | SciStarter anonymous Project id  |
 
 # Coming next
 In the very near future , additional dataset contains data about the online experiment recommendations and the users' actions will be uploaded.
