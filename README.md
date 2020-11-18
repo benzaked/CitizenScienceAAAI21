@@ -1,5 +1,5 @@
 # CitizenScienceAAAI21
-This sparse matrix used in the paper  "Intelligent Recommendations for Citizen Science" 
+This Dataset used in the paper  "Intelligent Recommendations for Citizen Science" 
 
 # description
 ## user_project_matrix.csv
