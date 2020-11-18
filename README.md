@@ -2,10 +2,19 @@
 This sparse matrix used in the paper  "Intelligent Recommendations for Citizen Science" 
 
 # description
+## user_project_matrix.csv
 
 | Rows:    | Anonymous user-id                |
 |---------|----------------------------------|
 | Columns: | SciStarter anonymous Project id  |
 
-# Coming next
-In the very near future , additional dataset contains data about the online experiment recommendations and the users' actions will be uploaded.
+## anonymous_recommendations.csv
+
+| user               | timestamp | algorithm                                  | recommendations         |
+|--------------------|-----------|--------------------------------------------|-------------------------|
+| anonymous users id | timestamp | the algorithm that made the recommendation | 10 projects recommended |
+
+## anonymous_users_actions.csv
+| profile            | project              | type                            | whens |
+|--------------------|----------------------|---------------------------------|-------|
+| anonymous users id | anonymous project id | the user action on the project  | whens |
